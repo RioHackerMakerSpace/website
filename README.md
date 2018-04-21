@@ -6,14 +6,24 @@ Website of Rio Hacker Space !
 
 * Obtenha o HUGO CMS
 * Clone este projeto
-''' git clone https://github.com/riohs/website.git'''
+  ```bash
+  git clone https://github.com/RioHackerSpace/website.git
+  ```
 * Para criar um novo post:
-'''hugo new post/Titulo.md'''
+  ```bash
+  hugo new post/Titulo.md
+  ```
 * Atualize o public
-'''hugo'''
+  ```bash
+  hugo
+  ```
 * Teste
-''' hugo server '''
+  ```bash
+  hugo server 
+  ```
 * Publique as alterações
-./deploy
+  ```bash
+  ./deploy
+  ```
 
 

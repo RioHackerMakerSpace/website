@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://hackerspace.rio"
+baseURL = "https://riohackerspace.github.io/"
 languageCode = "pt-BR"
 title = "Rio Hacker Space"
 theme = "split"
@@ -16,7 +16,7 @@ copyright = "&copy 2018 - Rio Hacker Space"
   # Metadata for search engines and social sharing
   name = "Rio Hacker Space"
   description = "Pagina oficial do Rio Hacker Space"
-  shareImage = "images/social.jpg"
+  shareImage = "images/riohackerspace-logo.jpg"
   twitterHandle = "onepagelove"
 
   # Favicon
@@ -49,35 +49,35 @@ copyright = "&copy 2018 - Rio Hacker Space"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = ""
 
       [[params.links.list1.link]]
-        text = "Blog"
+        text = ""
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Email"
+        text = ""
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Newsletter"
+        text = ""
         url = "#"
 
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = ""
 
       [[params.links.list2.link]]
-        text = "Twitter"
+        text = ""
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Instagram"
+        text = ""
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Dribbble"
+        text = ""
         url = "#"
 
   # Links List #3

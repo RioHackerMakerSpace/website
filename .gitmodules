@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:RioHackerSpace/RioHackerSpace.github.io.git
 	branch = master
+[submodule "rhms-hugo"]
+	path = themes
+	url = git@github.com:RioHackerMakerSpace/rhms-hugo.git

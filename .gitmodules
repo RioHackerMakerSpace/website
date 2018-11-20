@@ -5,3 +5,4 @@
 [submodule "rhms-hugo"]
 	path = themes
 	url = git@github.com:RioHackerMakerSpace/rhms-hugo.git
+	branch = master
